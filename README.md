@@ -12,3 +12,7 @@ Further analysis shows that women pay more in cash.
 
 Step05.
 In order to increase sales in the short term, discount codes for cash payments on women's clothing can be provided to promote consumption.
+----------
+
+Next, because the data for 2023-03 is incomplete, we use ARIMA to make sales forecasts for March.
+The results can be seen in orderAnalysis
